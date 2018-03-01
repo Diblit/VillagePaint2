@@ -89,3 +89,17 @@ C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\Vill
 C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
 C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll.config
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\NewVillagePaint\trunk\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
