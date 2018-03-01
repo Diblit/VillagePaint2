@@ -54,3 +54,14 @@ C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.WebUtil
 C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.WebUtility\obj\Debug\TCG.WebUtility.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.WebUtility\obj\Debug\TCG.WebUtility.dll
 C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.WebUtility\obj\Debug\TCG.WebUtility.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\TCG.WebUtility.dll.config
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\TCG.WebUtility.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\TCG.WebUtility.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\obj\Debug\TCG.WebUtility.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\obj\Debug\TCG.WebUtility.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\obj\Debug\TCG.WebUtility.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.WebUtility\obj\Debug\TCG.WebUtility.pdb

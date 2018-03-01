@@ -60,3 +60,15 @@ C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.Crypto\
 C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.Crypto\obj\Debug\TCG.Crypto.csproj.CoreCompileInputs.cache
 C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.Crypto\obj\Debug\TCG.Crypto.dll
 C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.Crypto\obj\Debug\TCG.Crypto.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\TCG.Crypto.dll.config
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\TCG.Crypto.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\TCG.Crypto.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\obj\Debug\TCG.Crypto.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\obj\Debug\TCG.Crypto.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\obj\Debug\TCG.Crypto.dll
+C:\Users\Stefan\Documents\Projects\Dillon\NewGit\Village Paint and Hardware\VillagePaint2\TCG.Crypto\obj\Debug\TCG.Crypto.pdb
