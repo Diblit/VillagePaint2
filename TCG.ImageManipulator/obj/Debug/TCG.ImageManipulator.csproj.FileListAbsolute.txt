@@ -1,0 +1,77 @@
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\sbezuidenhoudt.THECODEGROUP\Documents\Projects\VW\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\USER\Documents\6. TCG\VW-20170418T093344Z-001\VW\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\USER\Documents\7. Private Development\GibsonWeds\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll.config
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\GibsonWeds\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll.config
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Online Repos\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll.config
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll.config
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\TCG.ImageManipulator.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\bin\Debug\Recoding.Graphics.xml
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\TCG.ImageManipulator\obj\Debug\TCG.ImageManipulator.pdb

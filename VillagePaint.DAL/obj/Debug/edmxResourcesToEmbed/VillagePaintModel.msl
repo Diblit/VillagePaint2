@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="VillagePaintModelStoreContainer" CdmEntityContainer="VillagePaintEntities">
+    <EntitySetMapping Name="db_Customer">
+      <EntityTypeMapping TypeName="VillagePaintModel.db_Customer">
+        <MappingFragment StoreEntitySet="db_Customer">
+          <ScalarProperty Name="ZipCode" ColumnName="ZipCode" />
+          <ScalarProperty Name="AddressCity" ColumnName="AddressCity" />
+          <ScalarProperty Name="AddressSuburb" ColumnName="AddressSuburb" />
+          <ScalarProperty Name="AddressStreet" ColumnName="AddressStreet" />
+          <ScalarProperty Name="Cell" ColumnName="Cell" />
+          <ScalarProperty Name="CompanyName" ColumnName="CompanyName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="CardNumber" ColumnName="CardNumber" />
+          <ScalarProperty Name="customerID" ColumnName="customerID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="db_User">
+      <EntityTypeMapping TypeName="VillagePaintModel.db_User">
+        <MappingFragment StoreEntitySet="db_User">
+          <ScalarProperty Name="Cell" ColumnName="Cell" />
+          <ScalarProperty Name="PasswordHash" ColumnName="PasswordHash" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="userID" ColumnName="userID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

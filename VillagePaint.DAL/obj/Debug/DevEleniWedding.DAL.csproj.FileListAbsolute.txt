@@ -1,0 +1,48 @@
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\DevEleniWedding.DAL.dll.config
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\DevEleniWedding.DAL.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\DevEleniWedding.DAL.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\EntityFramework.Extensions.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\TCG.Crypto.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\TCG.Crypto.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\TCG.Crypto.dll.config
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\obj\Debug\DevEleniWedding.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\obj\Debug\DevEleniWedding.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\obj\Debug\DevEleniWedding.DAL.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\GibsonWeds.DAL\obj\Debug\DevEleniWedding.DAL.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\DevEleniWedding.DAL.dll.config
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\DevEleniWedding.DAL.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\DevEleniWedding.DAL.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\EntityFramework.Extensions.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\TCG.Crypto.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\TCG.Crypto.pdb
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\TCG.Crypto.dll.config
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\obj\Debug\DevEleniWedding.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\obj\Debug\DevEleniWedding.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\obj\Debug\DevEleniWedding.DAL.dll
+C:\Users\Stefan\Documents\Projects\DevEleniWedding\DevEleniWedding.DAL\obj\Debug\DevEleniWedding.DAL.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\DevEleniWedding.DAL.dll.config
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\DevEleniWedding.DAL.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\DevEleniWedding.DAL.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\EntityFramework.Extensions.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\TCG.Crypto.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\TCG.Crypto.pdb
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\TCG.Crypto.dll.config
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\obj\Debug\DevEleniWedding.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\obj\Debug\DevEleniWedding.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\obj\Debug\DevEleniWedding.DAL.dll
+C:\Users\Stefan\Documents\Projects\Dillon\Village Paint and Hardware\VillagePaint.DAL\obj\Debug\DevEleniWedding.DAL.pdb

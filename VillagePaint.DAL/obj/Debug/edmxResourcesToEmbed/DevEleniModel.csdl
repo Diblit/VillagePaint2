@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="VillagePaintModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="db_GroupCouple">
+    <Key>
+      <PropertyRef Name="groupCoupleID" />
+    </Key>
+    <Property Name="groupCoupleID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="CoupleName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="db_User" Relationship="Self.FK_db_User_db_GroupCouple" FromRole="db_GroupCouple" ToRole="db_User" />
+  </EntityType>
+  <EntityType Name="db_MealPlan">
+    <Key>
+      <PropertyRef Name="mealPlanID" />
+    </Key>
+    <Property Name="mealPlanID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MealPlanName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="db_User" Relationship="Self.FK_db_User_db_MealPlan" FromRole="db_MealPlan" ToRole="db_User" />
+  </EntityType>
+  <EntityType Name="db_Registry">
+    <Key>
+      <PropertyRef Name="registryID" />
+    </Key>
+    <Property Name="registryID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="GiftName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="GiftUrl" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="isSelected" Type="Boolean" />
+    <Property Name="selectedUserID" Type="Int64" />
+    <NavigationProperty Name="db_User" Relationship="Self.FK_db_Registry_db_User" FromRole="db_Registry" ToRole="db_User" />
+  </EntityType>
+  <EntityType Name="db_User">
+    <Key>
+      <PropertyRef Name="userID" />
+    </Key>
+    <Property Name="userID" Type="Int64" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="FirstName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PasswordHash" Type="String" MaxLength="Max" FixedLength="false" Unicode="true" />
+    <Property Name="Cell" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="allowPlusOne" Type="Boolean" />
+    <Property Name="isPlusOne" Type="Boolean" />
+    <Property Name="groupCoupleID" Type="Int64" />
+    <Property Name="isGuest" Type="Boolean" Nullable="false" />
+    <Property Name="isAdmin" Type="Boolean" />
+    <Property Name="hasRSVPd" Type="Boolean" />
+    <Property Name="isAttending" Type="Boolean" Nullable="false" />
+    <Property Name="isDeleted" Type="Boolean" Nullable="false" />
+    <Property Name="mealPlanID" Type="Int64" />
+    <NavigationProperty Name="db_GroupCouple" Relationship="Self.FK_db_User_db_GroupCouple" FromRole="db_User" ToRole="db_GroupCouple" />
+    <NavigationProperty Name="db_MealPlan" Relationship="Self.FK_db_User_db_MealPlan" FromRole="db_User" ToRole="db_MealPlan" />
+    <NavigationProperty Name="db_Registry" Relationship="Self.FK_db_Registry_db_User" FromRole="db_User" ToRole="db_Registry" />
+  </EntityType>
+  <EntityType Name="sysdiagram">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_db_User_db_GroupCouple">
+    <End Role="db_GroupCouple" Type="Self.db_GroupCouple" Multiplicity="0..1" />
+    <End Role="db_User" Type="Self.db_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="db_GroupCouple">
+        <PropertyRef Name="groupCoupleID" />
+      </Principal>
+      <Dependent Role="db_User">
+        <PropertyRef Name="groupCoupleID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_db_User_db_MealPlan">
+    <End Role="db_MealPlan" Type="Self.db_MealPlan" Multiplicity="0..1" />
+    <End Role="db_User" Type="Self.db_User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="db_MealPlan">
+        <PropertyRef Name="mealPlanID" />
+      </Principal>
+      <Dependent Role="db_User">
+        <PropertyRef Name="mealPlanID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_db_Registry_db_User">
+    <End Role="db_User" Type="Self.db_User" Multiplicity="0..1" />
+    <End Role="db_Registry" Type="Self.db_Registry" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="db_User">
+        <PropertyRef Name="userID" />
+      </Principal>
+      <Dependent Role="db_Registry">
+        <PropertyRef Name="selectedUserID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="VillagePaintEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="db_GroupCouple" EntityType="Self.db_GroupCouple" />
+    <EntitySet Name="db_MealPlan" EntityType="Self.db_MealPlan" />
+    <EntitySet Name="db_Registry" EntityType="Self.db_Registry" />
+    <EntitySet Name="db_User" EntityType="Self.db_User" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagram" />
+    <AssociationSet Name="FK_db_User_db_GroupCouple" Association="Self.FK_db_User_db_GroupCouple">
+      <End Role="db_GroupCouple" EntitySet="db_GroupCouple" />
+      <End Role="db_User" EntitySet="db_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_db_User_db_MealPlan" Association="Self.FK_db_User_db_MealPlan">
+      <End Role="db_MealPlan" EntitySet="db_MealPlan" />
+      <End Role="db_User" EntitySet="db_User" />
+    </AssociationSet>
+    <AssociationSet Name="FK_db_Registry_db_User" Association="Self.FK_db_Registry_db_User">
+      <End Role="db_User" EntitySet="db_User" />
+      <End Role="db_Registry" EntitySet="db_Registry" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
